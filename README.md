@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do list App: list structure
+# To Do list App:
 
-In this project, you will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
+This project, is a simple to-do-list web app for keeping list of To Do tasks. This simple web page will be built using webpack and served by a webpack dev server.
 
 ## Webpack ( To-Do-List App ) Setup
 Frontend environment for building JavaScript applications
